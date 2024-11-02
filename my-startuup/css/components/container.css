@@ -1,0 +1,33 @@
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.card-white {
+    background-color: #f9f9f9;
+    border-radius: 6px;
+    padding: 15px;
+    margin: 15px 0;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.card-white h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.card-white p,
+.card-white ul {
+    color: #555;
+    line-height: 1.6;
+}
+
+.card-white ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
